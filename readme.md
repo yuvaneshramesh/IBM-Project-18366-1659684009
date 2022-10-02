@@ -1,9 +1,9 @@
-**Completed** [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-18366-1659684009/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase) 
-
-![Frame 1 (1)](https://user-images.githubusercontent.com/75113031/192328564-e918f14f-8d83-4bae-b645-823e8f94489b.png)
 
 
-# 🏥Plasma Donor Application
+![Frame 1 (1)](![image](https://user-images.githubusercontent.com/69951869/193455883-2aef2295-fc2a-44d1-acca-db2b6e477932.png))
+
+
+# 🏥Nutrition Assistant Application
 ```text
 TECHNOLOGY : Cloud Application 
 TEAM ID : PNT2022TMID02106
@@ -14,23 +14,6 @@ TEAM ID : PNT2022TMID02106
  - Abuthahir
  - Parthiban Murali  
  - NIthish 
-```
-## 📒PROJECT DESCRIPTION:
-```text
-![Frame 1 (1)](https://user-images.githubusercontent.com/75113031/192328564-e918f14f-8d83-4bae-b645-823e8f94489b.png)
-
-
-# 🏥Plasma Donor Application
-```text
-TECHNOLOGY : Cloud Application 
-TEAM ID : PNT2022TMID02106
-```
-## 👨‍👩‍👦TEAM MEMBERS
-```text
- - Chinna Sakthi 
- - Eshwaran
- - Abinav  
- - Gokul 
 ```
 ## 📒PROJECT DESCRIPTION:
 ```text
@@ -52,6 +35,4 @@ Nutritional information of the analyzed image is returned to the app for display
 ## 👨‍💻Technical Architecture:
 
 ![Untitled](https://lh5.googleusercontent.com/HptOGv0lSRnQb1--uqUV-lbXaDQwuSqggE0tHdCTwTBqLVJM5aTd0FIYPhdhsRRwMLA56hW881qT6Ys-6-bqMuEJGlrJLEU8YOLsz5fCg43Mp9YN2vHcR_letaL9jw)
-
-```
 
