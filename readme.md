@@ -1,19 +1,16 @@
+![Untitled](https://github.com/IBM-EPBL/IBM-Project-18366-1659684009/blob/main/.github/!.PNG)
 
-
-![Frame 1 (1)](![image](https://user-images.githubusercontent.com/69951869/193455883-2aef2295-fc2a-44d1-acca-db2b6e477932.png))
-
-
-# 🏥Nutrition Assistant Application
+## Nutrition Assistant Application
 ```text
 TECHNOLOGY : Cloud Application 
 TEAM ID : PNT2022TMID02106
 ```
 ## 👨‍👩‍👦TEAM MEMBERS
 ```text
- - Nandhitha Sanjeev 
+ - Nandhita Sanjeev 
  - Abuthahir
  - Parthiban Murali  
- - NIthish 
+ - Nithish 
 ```
 ## 📒PROJECT DESCRIPTION:
 ```text
