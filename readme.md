@@ -7,7 +7,7 @@ TEAM ID : PNT2022TMID02106
 ```
 ## 👨‍👩‍👦TEAM MEMBERS
 ```text
- - Nandhita Sanjeev 
+ - Nandita Sajeev 
  - Abuthahir
  - Parthiban Murali  
  - Nithish 
