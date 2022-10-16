@@ -1,3 +1,4 @@
 # Output Website 
 
-<img width="1021" alt="image" src="https://user-images.githubusercontent.com/71515520/192078728-6ecedfd5-9cea-4c8e-ae15-ec70f672b11b.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/71515520/196025099-7f84809f-88fe-405b-b333-219c118b2e54.png">
+
