@@ -83,3 +83,7 @@ p{
     color: #757575;
   font-size: 19px;
 }
+img{
+    width: min-content;
+    height: min-content;
+}
