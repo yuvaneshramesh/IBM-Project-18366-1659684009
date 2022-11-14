@@ -1,4 +1,4 @@
-![Frame 1 (1)](https://github.com/IBM-EPBL/IBM-Project-18366-1659684009/blob/main/.github/!.PNG)
+<img width="334" alt="images" src="https://user-images.githubusercontent.com/69951869/201561625-e187ee4d-c560-4dd2-aaad-fd14a5459842.png">
 
 # Nutrition Assistant Application
 ```text
