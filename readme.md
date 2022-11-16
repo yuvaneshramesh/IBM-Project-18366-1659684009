@@ -37,12 +37,17 @@ Nutritional information of the analyzed image is returned to the app for display
 
 ## Sprint Breakdown
 ### Sprint 1
+```text
     - Login and Sign Up page
     - Homepage 
-
+```
 ### Sprint 2
+```text
     - View History of items page
     - Upload Image page
+```
     
 ### Sprint 3
+```text
+```
 
