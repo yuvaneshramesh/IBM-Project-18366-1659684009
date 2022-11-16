@@ -51,5 +51,8 @@ Nutritional information of the analyzed image is returned to the app for display
     
 ### Sprint 3
 ```text
+   - Integrate SendGrid
+   - Integrate Nutrition API
+   - Connect to IBM DB2
 ```
 
