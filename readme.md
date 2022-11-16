@@ -1,6 +1,6 @@
 <img width="334" alt="images" src="https://user-images.githubusercontent.com/69951869/201561625-e187ee4d-c560-4dd2-aaad-fd14a5459842.png">
-<img width="334" alt="images" src="![logow](https://user-images.githubusercontent.com/71515520/202137555-294b2987-eb8c-4420-87ed-03c290c9d378.png)
-">
+![logow](https://user-images.githubusercontent.com/71515520/202137706-1517a98e-a5b6-45c6-8258-b1dc0b48203f.png)
+
 
 # Nutrition Assistant Application
 ```text
