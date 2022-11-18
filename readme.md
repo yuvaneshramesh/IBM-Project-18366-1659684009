@@ -56,3 +56,10 @@ Nutritional information of the analyzed image is returned to the app for display
    - Connect to IBM DB2
 ```
 
+### Sprint 4
+```text
+   - Containerize the Application
+   - Upload Image to IBM Container Registery 
+   - Deploy in Kubernetes Cluster
+```
+
