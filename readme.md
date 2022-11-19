@@ -41,25 +41,21 @@ Nutritional information of the analyzed image is returned to the app for display
 ### Sprint 1
 ```text
     - Login and Sign Up page
-    - Upload Image page
+   
 ```
 ### Sprint 2
 ```text
     - View History of items page
-    - Homepage 
+    
 ```
     
 ### Sprint 3
 ```text
-   - Integrate SendGrid
-   - Integrate Nutrition API
-   - Connect to IBM DB2
+   - Homepage 
 ```
 
 ### Sprint 4
 ```text
-   - Containerize the Application
-   - Upload Image to IBM Container Registery 
-   - Deploy in Kubernetes Cluster
+  - Upload Image page
 ```
 
